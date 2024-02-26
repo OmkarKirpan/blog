@@ -1,2 +1,3 @@
-# blog
-blog.omkarkirpan.com
+# Blog
+[blog.omkarkirpan.com](https://blog.omkarkirpan.com/)
+[links.omkarkirpan.com](https://links.omkarkirpan.com/)
